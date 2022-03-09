@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pT1LK8MRRWOgdRJc7epn9uFkaH/pC2Y4Mrdbou2K3f9OUWlOGtzE2fxgFbsETfikD91PliICkcOVOcEd+kNWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Siyab\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Siyab\\.nuget\\packages\\taglibsharp\\2.2.0\\taglibsharp.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
